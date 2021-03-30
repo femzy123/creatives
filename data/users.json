@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "George Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://image.freepik.com/free-photo/young-african-american-photographer-woman-holding-camera-showing-number-one-with-finger_1187-68939.jpg",
+      "featured": true,
+      "profession": "Photographer"
+    },
+    {
+      "id": 2,
+      "name": "John Thomas",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://assets.teenvogue.com/photos/5c3fb58b9f26617015141087/master/w_1600%2Cc_limit/IMG_3209.JPG",
+      "featured": true,
+      "profession": "Model"
+    },
+    {
+      "id": 3,
+      "name": "George Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://i.pinimg.com/originals/fe/f9/45/fef9450b6996f94d341602798466dbd3.jpg",
+      "featured": true,
+      "profession": "UI/UX Designer"
+    },
+    {
+      "id": 4,
+      "name": "John Thomas",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/27/09/anok-yai-prada-milan-fashion-week.jpg",
+      "featured": true,
+      "profession": "Graphics Artist"
+    },
+    {
+      "id": 5,
+      "name": "George Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://image.freepik.com/free-photo/young-african-american-photographer-woman-holding-camera-showing-number-one-with-finger_1187-68939.jpg",
+      "featured": true,
+      "profession": "Photographer"
+    },
+    {
+      "id": 6,
+      "name": "John Thomas",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://assets.teenvogue.com/photos/5c3fb58b9f26617015141087/master/w_1600%2Cc_limit/IMG_3209.JPG",
+      "featured": true,
+      "profession": "Cinematographer"
+    },
+    {
+      "id": 7,
+      "name": "George Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://i.pinimg.com/originals/fe/f9/45/fef9450b6996f94d341602798466dbd3.jpg",
+      "featured": true,
+      "profession": "Event Manager"
+    },
+    {
+      "id": 8,
+      "name": "John Thomas",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/27/09/anok-yai-prada-milan-fashion-week.jpg",
+      "featured": true,
+      "profession": "Chef"
+    },
+    {
+      "id": 9,
+      "name": "George Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://image.freepik.com/free-photo/young-african-american-photographer-woman-holding-camera-showing-number-one-with-finger_1187-68939.jpg",
+      "featured": false,
+      "profession": "Photographer"
+    },
+    {
+      "id": 10,
+      "name": "John Thomas",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://assets.teenvogue.com/photos/5c3fb58b9f26617015141087/master/w_1600%2Cc_limit/IMG_3209.JPG",
+      "featured": false,
+      "profession": "Fullstack Engineer"
+    },
+    {
+      "id": 11,
+      "name": "George Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://i.pinimg.com/originals/fe/f9/45/fef9450b6996f94d341602798466dbd3.jpg",
+      "featured": false,
+      "profession": "Backend Engineer"
+    },
+    {
+      "id": 12,
+      "name": "John Thomas",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "location": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "state": "Lagos",
+        "country": "Nigeria",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "+234-7031230805",
+      "website": "hildegard.org",
+      "bio": "I've been a full time photographer since 2014. Personal photographer to Wale, Iddris Sandu and Yemi Alade in Nigeria. I shoot a lot of commercial photography, events and behind the scenes.",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/27/09/anok-yai-prada-milan-fashion-week.jpg",
+      "featured": false,
+      "profession": "Frontend Engineer"
+    }
+  ]
+}

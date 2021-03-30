@@ -1,0 +1,12 @@
+exports.Z1 = 1;
+exports.Z5 = 5;
+exports.Z10 = 10;
+exports.Z20 = 20;
+exports.Z30 = 30;
+exports.Z40 = 40;
+exports.Z50 = 50;
+exports.Z60 = 60;
+exports.Z70 = 70;
+exports.Z80 = 80;
+exports.Z90 = 90;
+exports.Z100 = 100;
