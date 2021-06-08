@@ -4,8 +4,9 @@ import { useRouter } from "next/router";
 import { pathOr } from "ramda";
 import Profile from "../../components/User"
 import creatives from "../../data/users.json";
+import withAuth from "../../hoc/withAuth";
 
-export default function User() {
+function User() {
   const router = useRouter();
   const userId = pathOr('', ['query', 'id'], router);
 
@@ -31,3 +32,5 @@ if (userInfo.length < 1) {
     </div>
   );
 }
+
+export default withAuth(User);
